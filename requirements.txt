@@ -1,0 +1,17 @@
+anthropic
+beautifulsoup4
+docx
+python-magic
+pandas
+pdfminer.six
+Pillow
+pytesseract
+python-pptx
+PyPDF2
+rich
+striprtf
+python-docx
+streamlit
+python-dotenv
+
+
